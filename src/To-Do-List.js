@@ -140,7 +140,7 @@ class ToDoList extends Component {
             }}
           >
             <fff>
-              ToDoist
+            📝 ToDoist
             </fff>{" "}
           </Header>
 
